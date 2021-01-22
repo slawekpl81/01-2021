@@ -1,0 +1,33 @@
+div.mainMenu ul {
+    list-style: none;
+    margin: 5px 5%;
+    height: 80px;
+}
+
+div.mainMenu ul li {
+    display: inline-block;
+    padding: 5px 3%;
+    margin: 2px 2px;
+    border: 2px solid white;
+    background-color: white;
+    transition: .3s;
+}
+
+div.mainMenu ul li a {
+    font-size: 1.7rem;
+    font-weight: bold;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    text-decoration: none;
+    color: black;
+}
+
+div.mainMenu ul li a:hover {
+    color: rgb(75, 73, 73);
+}
+
+div.mainMenu ul li:hover {
+    border: 2px solid gray;
+    border-radius: 5px;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+}

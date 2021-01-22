@@ -1,0 +1,30 @@
+div.header {
+    position: relative;
+    height: 60vh;
+
+    /* background-image: url("../img/sstable.jpg"); */
+    background-image: url("../img/istockphoto-1136638047-1024x1024.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position: center 50%;
+    transition: 1s;
+}
+
+div.header img {
+    position: absolute;
+    top: 10%;
+    left: 10%;
+    max-width: 20%;
+    backdrop-filter: blur(10px);
+    border-radius: 10px;
+}
+
+div.header:hover {
+    background-size: 105%;
+}
+
+@media (max-width:500px) {
+    div.header {
+        height: 30vh;
+    }
+}

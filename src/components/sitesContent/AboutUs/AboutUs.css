@@ -1,0 +1,11 @@
+div.aboutUs {
+    text-align: center;
+}
+
+div.aboutUs img {
+    width: 10%;
+}
+
+div.aboutUs p {
+    font-size: 1.5rem;
+}
