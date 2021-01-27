@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/01-2021/static/css/main.686a6549.chunk.css",
-    "main.js": "/01-2021/static/js/main.9a5e58d7.chunk.js",
-    "main.js.map": "/01-2021/static/js/main.9a5e58d7.chunk.js.map",
-    "runtime-main.js": "/01-2021/static/js/runtime-main.9c27f844.js",
-    "runtime-main.js.map": "/01-2021/static/js/runtime-main.9c27f844.js.map",
-    "static/js/2.f30c3ec6.chunk.js": "/01-2021/static/js/2.f30c3ec6.chunk.js",
-    "static/js/2.f30c3ec6.chunk.js.map": "/01-2021/static/js/2.f30c3ec6.chunk.js.map",
-    "static/js/3.8d2eeaac.chunk.js": "/01-2021/static/js/3.8d2eeaac.chunk.js",
-    "static/js/3.8d2eeaac.chunk.js.map": "/01-2021/static/js/3.8d2eeaac.chunk.js.map",
+    "main.css": "/01-2021/static/css/main.fefb54a4.chunk.css",
+    "main.js": "/01-2021/static/js/main.c6f3b5a8.chunk.js",
+    "main.js.map": "/01-2021/static/js/main.c6f3b5a8.chunk.js.map",
+    "runtime-main.js": "/01-2021/static/js/runtime-main.785f9c2a.js",
+    "runtime-main.js.map": "/01-2021/static/js/runtime-main.785f9c2a.js.map",
+    "static/js/2.99188ea6.chunk.js": "/01-2021/static/js/2.99188ea6.chunk.js",
+    "static/js/2.99188ea6.chunk.js.map": "/01-2021/static/js/2.99188ea6.chunk.js.map",
+    "static/js/3.18ea5583.chunk.js": "/01-2021/static/js/3.18ea5583.chunk.js",
+    "static/js/3.18ea5583.chunk.js.map": "/01-2021/static/js/3.18ea5583.chunk.js.map",
     "index.html": "/01-2021/index.html",
-    "static/css/main.686a6549.chunk.css.map": "/01-2021/static/css/main.686a6549.chunk.css.map",
-    "static/js/2.f30c3ec6.chunk.js.LICENSE.txt": "/01-2021/static/js/2.f30c3ec6.chunk.js.LICENSE.txt",
+    "static/css/main.fefb54a4.chunk.css.map": "/01-2021/static/css/main.fefb54a4.chunk.css.map",
+    "static/js/2.99188ea6.chunk.js.LICENSE.txt": "/01-2021/static/js/2.99188ea6.chunk.js.LICENSE.txt",
+    "static/media/Header.css": "/01-2021/static/media/restaurant-2623071_640.8b847fd5.jpg",
     "static/media/idea.3998eba0.png": "/01-2021/static/media/idea.3998eba0.png",
-    "static/media/Header.css": "/01-2021/static/media/istockphoto-1136638047-1024x1024.038584ca.jpg",
     "static/media/logo.594b025a.png": "/01-2021/static/media/logo.594b025a.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.9c27f844.js",
-    "static/js/2.f30c3ec6.chunk.js",
-    "static/css/main.686a6549.chunk.css",
-    "static/js/main.9a5e58d7.chunk.js"
+    "static/js/runtime-main.785f9c2a.js",
+    "static/js/2.99188ea6.chunk.js",
+    "static/css/main.fefb54a4.chunk.css",
+    "static/js/main.c6f3b5a8.chunk.js"
   ]
 }
